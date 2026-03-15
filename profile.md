@@ -20,6 +20,16 @@
 
 ---
 
+## 0. Short Bio (leadership-focused)
+
+> Use for author bios, About snippets, or taglines. Option 4 — executive leadership framing.
+
+```
+I lead engineering teams building AI-native systems at enterprise scale. I focus on architecture, strategy, and enabling teams to ship AI-powered platforms that integrate LLMs, agents, and context-aware tooling into real development workflows.
+```
+
+---
+
 ## 1. LinkedIn Headline
 
 **Currently on LinkedIn:**
@@ -351,9 +361,9 @@ UI and service integration, server deployment and configuration, bug fixes, prod
 
 # About
 
-I architect AI-Native engineering at scale — building the infrastructure, standards, and practices so entire teams can work differently, not just a few early adopters.
+I lead engineering teams building AI-native systems at enterprise scale. I focus on architecture, strategy, and enabling teams to ship AI-powered platforms that integrate LLMs, agents, and context-aware tooling into real development workflows.
 
-I am Director of Engineering at Verizon Value, where I work on the North Star Architecture platform: TracFone, Total Wireless, Straight Talk, and Walmart Family Mobile. The platform spans 68+ microservices and 6.4 million lines of code.
+I work on enabling AI-Native engineering at scale across enterprise platforms.
 
 ## What I'm Building
 
@@ -371,7 +381,7 @@ VP-level 18-month agentic transformation roadmaps and Agentic Order Monitoring a
 
 ## Career Foundation
 
-Before the AI-Native work, I led delivery of 29+ capabilities on the North Star Architecture — universal cart, cross-channel order orchestration, AI Shopping Assistant, and multi-brand migrations at 85%+ code reuse per brand. Before Verizon, I spent 13+ years building enterprise middleware and SOA platforms at Emerson Network Power, IBM, Infosys, and TracFone Wireless — across Java/J2EE, SOA, BPEL, OSB, BPM, and Oracle frameworks.
+Before the AI-Native work, I led delivery of 29+ platform capabilities including universal cart, cross-channel orchestration, and multi-brand migrations at 85%+ code reuse. I've spent 13+ years building enterprise middleware and SOA platforms.
 
 Same discipline. Radically different tools.
 
@@ -403,9 +413,9 @@ The AI-Native Engineering series covers the full landscape in 10 posts.
 ```html
 <h2>About</h2>
 
-<p>I architect AI-Native engineering at scale — building the infrastructure, standards, and practices so entire teams can work differently, not just a few early adopters.</p>
+<p>I lead engineering teams building AI-native systems at enterprise scale. I focus on architecture, strategy, and enabling teams to ship AI-powered platforms that integrate LLMs, agents, and context-aware tooling into real development workflows.</p>
 
-<p>I am Director of Engineering at Verizon Value, where I work on the North Star Architecture platform: TracFone, Total Wireless, Straight Talk, and Walmart Family Mobile. The platform spans 68+ microservices and 6.4 million lines of code.</p>
+<p>I work on enabling AI-Native engineering at scale across enterprise platforms.</p>
 
 <h3>What I'm Building</h3>
 
@@ -423,7 +433,7 @@ VP-level 18-month agentic transformation roadmaps and Agentic Order Monitoring a
 
 <h3>Career Foundation</h3>
 
-<p>Before the AI-Native work, I led delivery of 29+ capabilities on the North Star Architecture — universal cart, cross-channel order orchestration, AI Shopping Assistant, and multi-brand migrations at 85%+ code reuse per brand. Before Verizon, I spent 13+ years building enterprise middleware and SOA platforms at Emerson Network Power, IBM, Infosys, and TracFone Wireless.</p>
+<p>Before the AI-Native work, I led delivery of 29+ platform capabilities including universal cart, cross-channel orchestration, and multi-brand migrations at 85%+ code reuse. I've spent 13+ years building enterprise middleware and SOA platforms.</p>
 
 <p>Same discipline. Radically different tools.</p>
 
@@ -450,7 +460,7 @@ VP-level 18-month agentic transformation roadmaps and Agentic Order Monitoring a
 
 ## 11. Short Bio — 100 Words (Guest Posts / Speaker Profiles / Bylines)
 
-Anubhaw Sinha is Director of Engineering at Verizon Value, where he architects AI-Native engineering across a 68-microservice, multi-brand telecom platform. He built a LangGraph + MCP agent framework enabling 17+ specialized AI agents across the SDLC, reduced defect investigation from hours to 45 seconds, and led delivery of 29+ platform capabilities including universal cart, cross-channel orchestration, and AI Shopping Assistant. Before Verizon, he spent 13+ years building enterprise SOA and middleware platforms at Emerson, IBM, Infosys, and TracFone. He writes the AI-Native Engineering series at Engineering Insights (anubhaws.sg-host.com).
+Anubhaw Sinha leads engineering teams building AI-native systems at enterprise scale. He built a LangGraph + MCP agent framework enabling 17+ specialized AI agents across the SDLC, reduced defect investigation from hours to 45 seconds, and led delivery of 29+ platform capabilities including universal cart, cross-channel orchestration, and AI Shopping Assistant. He has spent 13+ years building enterprise SOA and middleware platforms. He writes the AI-Native Engineering series at Engineering Insights (anubhaws.sg-host.com).
 
 ---
 
